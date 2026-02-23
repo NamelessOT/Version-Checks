@@ -1,4 +1,26 @@
 {
-  "nameless_admin": "v2.4.1",
-  "test": "v1.0.0"
+  "Nameless_AdminV2": "v2.4.5",
+  "Nameless_Bombing": "v1.0.0",
+  "Nameless_Boxes": "v1.0.0",
+  "Nameless_CarClone": "v1.0.0",
+  "Nameless_CarDefaults": "v1.0.0",
+  "Nameless_CarryPlayers": "v1.0.0",
+  "Nameless_ClothingCompany": "v1.0.0",
+  "Nameless_Creator": "v1.0.0",
+  "Nameless_Electric": "v1.0.0",
+  "Nameless_Elevators": "v1.0.0",
+  "Nameless_EMSDispatch": "v1.0",
+  "Nameless_HelpMe": "v1.0.0",
+  "Nameless_Ids": "v1.0.0",
+  "Nameless_InjuryScript": "v1.0.0",
+  "Nameless_LicenseTest": "v1.0.0",
+  "Nameless_MoneyWash": "v1.2",
+  "Nameless_NoCrosshair": "v1.0.0",
+  "Nameless_PedandProp": "v1.0.0",
+  "Nameless_Presents": "v1.0.0",
+  "Nameless_Queue": "v1.0.0",
+  "Nameless_RefreshSkin": "v1.0.0",
+  "Nameless_SellScript": "v1.0.0",
+  "Nameless_Turfs": "v1.0.0",
+  "Nameless_UwucafeCats": "v1.0.0"
 }
